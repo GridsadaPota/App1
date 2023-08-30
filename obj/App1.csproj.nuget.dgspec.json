@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj": {}
+    "D:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj": {}
   },
   "projects": {
-    "d:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj": {
+    "D:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj",
+        "projectUniqueName": "D:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj",
         "projectName": "App1",
-        "projectPath": "d:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj",
+        "projectPath": "D:\\Traning\\Workshop 1\\App1\\App1\\App1.csproj",
         "packagesPath": "C:\\Users\\Gridsada Pota\\.nuget\\packages\\",
-        "outputPath": "d:\\Traning\\Workshop 1\\App1\\App1\\obj\\",
+        "outputPath": "D:\\Traning\\Workshop 1\\App1\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gridsada Pota\\AppData\\Roaming\\NuGet\\NuGet.Config",
